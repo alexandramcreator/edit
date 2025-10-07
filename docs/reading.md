@@ -138,6 +138,7 @@
 * [dotepub](https://dotepub.com/) - Convert Webpages to EBooks
 * [The Open Book](https://github.com/joeycastillo/The-Open-Book) - DIY Ebook Reader
 * [KoboCloud](https://github.com/fsantini/KoboCloud) - Sync Kobo to Cloud Services
+* [Free EPUB Reader](https://epub-reader.io/) - Ebook Reader / Windows
 
 ***
 
